@@ -1,0 +1,9 @@
+.head{
+    font-size: 30px;
+    font-weight: 900;
+    color: rgb(250, 163, 105);
+    text-shadow: 3px 3px 3px darkred;
+    background-color: rgba(44, 8, 8, 0.884);
+    padding-bottom: 2px;
+    
+}

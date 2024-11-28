@@ -1,0 +1,29 @@
+a.active {
+    color: white;
+    background-color: red;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.header {
+    background-color: rgb(44, 14, 14);
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+.posts h2 {
+    color: white;
+    text-align: center;
+}
+
+.posts{
+    padding-top: 50px;
+    background-color: rgba(48, 22, 18, 0.932);
+}
+.post{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    text-align: center;
+    color: rgb(245, 139, 40);
+}
